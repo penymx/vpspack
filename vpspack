@@ -600,7 +600,7 @@ echo -e "\033[1;30m-------------------------------------------------------------
 netstat -tulpn | awk -vOFS='\t' '/^tcp/{print $4,$7} /^udp/{print $4,$6}' | grep "$filter"
 }
 function tools(){
-./bin/toolmaster
+toolmaster
 }
 function detalhes_usuarios(){
 clear
