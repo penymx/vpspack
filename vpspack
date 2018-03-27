@@ -787,7 +787,7 @@ case $opcao in
    deletar_todos;;
   25)
    dropbear;;
-  27)
+  26)
    puertos;;
   27)
    tools;;
