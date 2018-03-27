@@ -702,7 +702,7 @@ done
 clear
 if [[ $1 == "" ]]
 then
-echo -e "\033[1;37m       VpsPack V2.3 © MX (PowerMX) \033[0m"
+echo -e "\033[1;37m       VpsPack Pro V1 © MX (PowerMX) \033[0m"
 echo -e "\033[1;37mSeleccione una opcion:    Para Salir Ctrl + C\033[1;33m
 [\033[1;30m01\033[1;33m] Configurar_Squid_SSH_Dropbear \033[1;30m(Configuracion Squid, OpenSSH y Dropbear)\033[1;33m
 [\033[1;30m02\033[1;33m] Limite \033[1;30m(limite de conexiones simultaneas)\033[1;33m
